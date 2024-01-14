@@ -8,7 +8,6 @@ public class LoanDetails {
         this.years = years;
     }
 
-    // Getters and potentially setters for each field
     public int getPrincipal() {
         return principal;
     }
